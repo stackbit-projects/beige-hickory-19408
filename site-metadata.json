@@ -73,13 +73,7 @@
         "subscribe_title": "Subscribe",
         "subscribe_content": "Only updates you actually care about. Unsubscribe anytime.",
         "content": "&copy; Coastline Market Inc. DBA Freshline.",
-        "links": [
-            {
-                "label": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
+        "links": []
     },
     "title": "Azimuth"
 }
