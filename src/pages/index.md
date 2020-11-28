@@ -70,9 +70,8 @@ sections:
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Feedback for Freshline - saved tons of time. Not sure what I would do
+          without it.
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
