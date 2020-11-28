@@ -58,7 +58,7 @@ sections:
     type: section_reviews
     background: white
     title: What customers are saying
-    subtitle: 'Don''t just take our word for it. '
+    subtitle: Don't just take our word for it. Here's what our partners had to say.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
