@@ -26,9 +26,9 @@ sections:
         image: images/order-fulfillment.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Reduce warehouse staffing costs and costly operational mistakes with
+          an intelligent commerce platform with pre-set order cutoff times,
+          custom delivery dates, and auto-generated picklists.
         actions:
           - label: Learn More
             url: /features
