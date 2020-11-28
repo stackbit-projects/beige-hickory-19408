@@ -75,8 +75,8 @@ sections:
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Feedback for Freshline - saved tons of time. Not sure what I would do
+          without it.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
