@@ -19,8 +19,8 @@ sections:
     title: Custom built for perishables
     subtitle: >-
       Whether you’re in meats, seafood, or produce - run your business with
-      powerful tools and integrations built specifically with food wholesalers
-      in mind.
+      powerful tools and integrations built specifically with meat, seafood, and
+      produce suppliers wholesalers in mind.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
