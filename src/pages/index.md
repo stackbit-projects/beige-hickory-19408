@@ -33,7 +33,7 @@ sections:
           - label: Explore Operations Tooling
             url: /features
       - title: Create and manage complex delivery rules
-        image: images/feature2.png
+        image: images/business-rules.png
         image_alt: App users welcoming a new member
         content: >-
           Set accepted delivery/pickup zones, along with zone-specific minimum
