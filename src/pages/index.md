@@ -32,7 +32,7 @@ sections:
         actions:
           - label: Explore Operations Tooling
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Create and manage complex delivery rules
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
