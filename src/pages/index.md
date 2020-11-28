@@ -42,7 +42,7 @@ sections:
         actions:
           - label: Explore Order Rules
             url: /features
-      - title: Cool Feature of Your Services
+      - title: Solve the catch weight issue
         image: images/weight-modal.png
         image_alt: App user profile preview
         content: >+
