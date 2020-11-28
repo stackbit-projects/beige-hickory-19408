@@ -30,7 +30,7 @@ sections:
           an intelligent commerce platform with pre-set order cutoff times,
           custom delivery dates, and auto-generated picklists.
         actions:
-          - label: 'Explore Operations '
+          - label: Explore Operations Tooling
             url: /features
       - title: Awesome Feature of Your Services
         image: images/feature2.png
