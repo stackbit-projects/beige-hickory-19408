@@ -58,7 +58,7 @@ sections:
     type: section_reviews
     background: white
     title: You're in Good Company
-    subtitle: Don't just take our word for it. Here's what our partners had to say.
+    subtitle: ''
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
