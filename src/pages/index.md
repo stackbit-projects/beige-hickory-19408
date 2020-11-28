@@ -65,8 +65,8 @@ sections:
       - author: John Doe
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Feedback for Freshline - saved tons of time. Not sure what I would do
+          without it.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
