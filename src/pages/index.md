@@ -45,10 +45,12 @@ sections:
       - title: Cool Feature of Your Services
         image: images/weight-modal.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >+
+          Pre-authorize customers to address any catch weight variances. After
+          shipping, finalize your charge by reconciling ordered weights vs.
+          shipped weights - eliminating concerns of overcharging or
+          undercharging.
+
         actions:
           - label: Learn More
             url: /features
