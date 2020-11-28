@@ -40,7 +40,7 @@ sections:
           orders, delivery fees, and available products. Reduce customer support
           queries and only deal with orders within your zone of control.
         actions:
-          - label: Learn More
+          - label: Explore Order Rules
             url: /features
       - title: Cool Feature of Your Services
         image: images/feature3.png
