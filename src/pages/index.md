@@ -22,7 +22,7 @@ sections:
       powerful tools and integrations built specifically with meat, seafood, and
       produce suppliers in mind,
     features:
-      - title: The Best Feature of Your Services
+      - title: A platform that maps to your operations
         image: images/order-fulfillment.png
         image_alt: App preview on a phone and tablet
         content: >-
