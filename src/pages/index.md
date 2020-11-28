@@ -10,7 +10,7 @@ sections:
       Whether you’re a startup or an established business - Freshline is built
       from the ground up for meat, seafood, and produce suppliers.
     actions:
-      - label: Learn More
+      - label: Start free trial
         url: /features
         primary: true
   - section_id: features
