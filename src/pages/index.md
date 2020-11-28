@@ -52,7 +52,7 @@ sections:
           undercharging.
 
         actions:
-          - label: Learn More
+          - label: Explore Catch Weight
             url: /features
   - section_id: reviews
     type: section_reviews
