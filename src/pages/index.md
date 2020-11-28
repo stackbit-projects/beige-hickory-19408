@@ -36,9 +36,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Set accepted delivery/pickup zones, along with zone-specific minimum
+          orders, delivery fees, and available products. Reduce customer support
+          queries and only deal with orders within your zone of control.
         actions:
           - label: Learn More
             url: /features
