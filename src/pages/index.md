@@ -18,8 +18,9 @@ sections:
     background: gray
     title: Custom built for perishables
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Whether you’re in meats, seafood, or produce - run your business with
+      powerful tools and integrations built specifically with food wholesalers
+      in mind.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
