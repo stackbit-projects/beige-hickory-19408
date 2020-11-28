@@ -57,7 +57,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: What customers are saying
+    title: You're in Good Company
     subtitle: Don't just take our word for it. Here's what our partners had to say.
     reviews:
       - author: John Doe
