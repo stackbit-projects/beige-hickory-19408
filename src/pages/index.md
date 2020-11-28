@@ -58,7 +58,9 @@ sections:
     type: section_reviews
     background: white
     title: You're in Good Company
-    subtitle: ''
+    subtitle: >-
+      Freshline is here to help companies build, launch, and scale their online
+      business. 
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
