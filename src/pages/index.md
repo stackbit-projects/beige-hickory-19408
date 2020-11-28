@@ -58,9 +58,7 @@ sections:
     type: section_reviews
     background: white
     title: What customers are saying
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: 'Don''t just take our word for it. '
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
