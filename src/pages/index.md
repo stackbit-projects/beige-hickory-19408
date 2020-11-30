@@ -77,7 +77,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Launch your online business in 24 hours
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Get started in less than 48 hours. Free trial with no credit card
+      required.
     actions:
       - label: Get Started
         url: /signup
