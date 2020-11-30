@@ -88,12 +88,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    faq_items: []
-    type: section_faq
 meta_title: 'Freshline: Commerce and Fulfillment for Perishables'
 meta_description: >-
   Freshline is an e-commerce and fulfillment platform for perishables
