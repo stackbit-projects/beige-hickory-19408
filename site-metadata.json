@@ -2,7 +2,7 @@
     "palette": "green",
     "header": {
         "logo_img": "images/parallel-spinach.svg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "About",
