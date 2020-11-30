@@ -8,7 +8,7 @@ excerpt: >-
   aliquet rhoncus sed, hendrerit vel odio.
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
-thumb_image: images/10_thumb.jpg
+thumb_image: images/maroon-mars.jpg
 thumb_image_alt: Business people in a meeting
 image: images/20191111_054101.jpg
 image_alt: Business people in a meeting
