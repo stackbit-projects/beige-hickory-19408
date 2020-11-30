@@ -21,17 +21,17 @@
                 "url": "/style-guide"
             },
             {
-                "label": "Start free trial",
-                "url": "/signup",
-                "primary": true
-            },
-            {
                 "label": "Sign In",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Start free trial",
+                "url": "/signup",
+                "primary": true
             }
         ]
     },
