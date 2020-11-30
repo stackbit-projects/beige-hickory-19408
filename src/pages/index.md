@@ -90,6 +90,9 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: 'Freshline: Commerce and Fulfillment for Perishables'
-meta_description: The preview of the Azimuth theme
+meta_description: >-
+  Freshline is an e-commerce and fulfillment platform for perishables
+  wholesalers selling to end-consumers. We make it easy for meat, seafoods, and
+  produce suppliers to 
 template: landing
 ---
