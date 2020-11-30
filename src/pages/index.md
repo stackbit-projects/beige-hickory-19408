@@ -76,7 +76,7 @@ sections:
           without it.
   - section_id: call-to-action
     type: section_cta
-    title: Launch your online business in 24 hours
+    title: Launch your online business in less than 48 hours
     subtitle: >-
       Get started in less than 48 hours. Free trial with no credit card
       required.
