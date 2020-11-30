@@ -66,7 +66,7 @@ sections:
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
-      - author: Jane Roe
+      - author: 'Seafood Market in Toronto, Ontario'
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
