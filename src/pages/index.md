@@ -93,6 +93,6 @@ meta_title: 'Freshline: Commerce and Fulfillment for Perishables'
 meta_description: >-
   Freshline is an e-commerce and fulfillment platform for perishables
   wholesalers selling to end-consumers. We make it easy for meat, seafoods, and
-  produce suppliers to 
+  produce suppliers to build, launch, and scale their online business.
 template: landing
 ---
