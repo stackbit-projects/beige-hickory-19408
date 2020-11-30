@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "About",
+                "label": "Customers",
                 "url": "/customers"
             },
             {
