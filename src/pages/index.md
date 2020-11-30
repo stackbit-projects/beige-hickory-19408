@@ -70,7 +70,7 @@ sections:
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
-      - author: Richard Roe
+      - author: 'Truffle & Mushroom Distributor in Seattle, Washington'
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
