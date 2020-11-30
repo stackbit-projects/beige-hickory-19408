@@ -5,12 +5,12 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Customers",
-                "url": "/customers"
-            },
-            {
                 "label": "Features",
                 "url": "/features"
+            },
+            {
+                "label": "Customers",
+                "url": "/customers"
             },
             {
                 "label": "Pricing",
