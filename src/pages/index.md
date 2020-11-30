@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/10.jpg
+    image: images/charming-lavender.png
     image_alt: App preview
     title: Better ecommerce and fulfillment for perishables.
     content: >
