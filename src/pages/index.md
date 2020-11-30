@@ -84,12 +84,6 @@ sections:
       - label: Get Started
         url: /signup
         primary: true
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        primary: false
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: recent-posts
     type: section_posts
     background: gray
