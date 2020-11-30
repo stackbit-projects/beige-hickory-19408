@@ -63,7 +63,6 @@ sections:
       business. 
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
