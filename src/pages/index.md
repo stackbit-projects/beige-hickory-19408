@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/best-spider.png
+    image: images/10.jpg
     image_alt: App preview
     title: Better ecommerce and fulfillment for perishables.
     content: >
