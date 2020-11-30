@@ -62,7 +62,7 @@ sections:
       Freshline is here to help companies build, launch, and scale their online
       business. 
     reviews:
-      - author: 'Meat '
+      - author: 'Meat Wholesaler, Austin Texas '
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
