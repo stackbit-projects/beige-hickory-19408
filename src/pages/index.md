@@ -71,7 +71,6 @@ sections:
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
       - author: Richard Roe
-        avatar: images/review3.jpg
         content: >-
           Feedback for Freshline - saved tons of time. Not sure what I would do
           without it.
