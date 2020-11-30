@@ -76,7 +76,7 @@ sections:
           without it.
   - section_id: call-to-action
     type: section_cta
-    title: 'Build, Launch & Scale your online business in 24 hours.'
+    title: Build & Scale your online business in 24 hours.
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
